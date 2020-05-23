@@ -1,0 +1,10 @@
+git clone xxxx
+
+git status
+
+git add .
+
+git commit -m"nhap ghi chu vao"
+
+git push
+
